@@ -23,3 +23,5 @@
 8. dynamicly chnage the title page. See functions.php
 9. take hardcoded context and make it into pages. Move the header section into header.php and visa versa for footer.
 10. create menu loactions in functions.php. Using WP backend set menu names in appearance/menus
+11. pasting the icon url in the wp menu class section links the icon
+12.

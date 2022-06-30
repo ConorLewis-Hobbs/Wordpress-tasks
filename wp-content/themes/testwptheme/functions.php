@@ -2,6 +2,7 @@
 function dynamic_title(){
 //adds dynamic title tag support. Wordpress manages the title tags itself
 add_theme_support("title-tag");
+add_theme_support("custom-logo");
 }
 
 add_action("after_setup_theme", "dynamic_title");
